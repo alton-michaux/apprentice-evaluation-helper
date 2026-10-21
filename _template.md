@@ -1,5 +1,7 @@
 # <Apprentice Name>
 
+**GitHub**: <username>
+**Jira**: <display name> (<accountId>)
 **Project(s)**: <Vamos / Datos / etc.>
 **Start date**: <YYYY-MM-DD>
 **Stack**: <e.g. Rails, Django, React>
